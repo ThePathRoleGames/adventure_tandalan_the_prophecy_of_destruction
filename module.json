@@ -1,0 +1,71 @@
+{
+  "id": "tandalan",
+  "title": "Tandalan",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Tandalan is a vast aquatic world with one large continent and many islands. This world is curious and mobile, often new islands appear from the depths of the sea or, conversely, islands are absorbed by the deep sea, portals open to different other worlds, which often brings great problems to the inhabitants of the world",
+  "authors": [
+    {
+      "name": "Avataromvatar"
+    }
+  ],
+  "packs": [
+    {
+      "name": "the-prophecy-of-destruction",
+      "label": "The prophecy of destruction",
+      "path": "packs/the-prophecy-of-destruction",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "world-info",
+      "label": "World Info",
+      "path": "packs/world-info",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "world-actor",
+      "label": "World Actor",
+      "path": "packs/world-actor",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "world-items",
+      "label": "World Items",
+      "path": "packs/world-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "world-scena",
+      "label": "World Scena",
+      "path": "packs/world-scena",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
