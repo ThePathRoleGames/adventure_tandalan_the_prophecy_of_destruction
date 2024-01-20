@@ -6,7 +6,7 @@
     "minimum": "11",
     "verified": "11"
   },
-  "manifest": "https://raw.githubusercontent.com/ThePathRoleGames/adventure_tandalan_the_prophecy_of_destruction/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/ThePathRoleGames/adventure_tandalan_the_prophecy_of_destruction/main/module.json",
   "download": "https://github.com/ThePathRoleGames/adventure_tandalan_the_prophecy_of_destruction/archive/refs/tags/v0.1.0.zip",
   "description": "Tandalan is a vast aquatic world with one large continent and many islands. This world is curious and mobile, often new islands appear from the depths of the sea or, conversely, islands are absorbed by the deep sea, portals open to different other worlds, which often brings great problems to the inhabitants of the world",
   "authors": [
